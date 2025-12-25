@@ -1,0 +1,11 @@
+order_id,product_id,product_name,region,quantity,price
+1,101,Laptop,North,5,50000
+2,102,Mobile,South,10,20000
+3,103,Headphones,East,15,2000
+4,101,Laptop,West,3,50000
+5,102,Mobile,North,8,20000
+6,104,Tablet,South,6,30000
+7,103,Headphones,West,20,2000
+8,105,Smartwatch,East,12,15000
+9,104,Tablet,North,4,30000
+10,101,Laptop,South,2,50000
